@@ -2917,6 +2917,7 @@ bs.benefit-one.co.jp###meerkat-wrap
 bs.benefit-one.co.jp###ptcd_modal_dialog
 techgig.com,digit.in###cubewrapid
 bigkinds.or.kr,104.com.tw##.popup-container
+gamespark.jp###trendingPopup
 getpocket.com##div[data-cy="mylist-flyaway-extensions"]
 theatlantic.com###paywall
 s.shufoo.net###okiniiri-fuwatto-banner
